@@ -1,6 +1,6 @@
-Lab Notes
+# Research Pathway
 
-
+## Current Work
 
 ### Markdown
 
