@@ -12,16 +12,15 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Unnamed
-  tagline: Developer. Designer
+  name: Ice
+  tagline: Researcher, studying ML/DL and Data science.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  IcedDoggie
+    linkedIn: in/iceboy95
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
