@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Ice
-  tagline: Researcher, studying ML/DL and Data science.
+  tagline: Researcher (ML/DL/CV/DS)
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
