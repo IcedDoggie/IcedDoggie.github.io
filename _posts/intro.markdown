@@ -1,12 +1,18 @@
+
 ---
 layout: post
 title:  "Brief Introduction"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Some context
+Studying and researching Machine Learning, Computer Vision and interested in Data Science related career. Previous and current researches include traffic analysis, facial micro-expression analysis and image emotion analysis. 
+
+Pursuing fundamental learning algorithm and medical imaging.
 
 ```javascript
+// require 'jekyll-timeago'
+// include Jekyll:Timeago
+
 const Razorpay = require('razorpay');
 
 let rzp = Razorpay({
