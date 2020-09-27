@@ -4,7 +4,7 @@ title:  "Brief Introduction"
 date:   2019-03-23 21:03:36 +0530
 categories:
 ---
-
+---
 Studying and researching Machine Learning, Computer Vision and interested in Data Science related career. Previous and current researches include traffic analysis, facial micro-expression analysis and image emotion analysis. 
 Pursuing fundamental learning algorithm and medical imaging.
 
