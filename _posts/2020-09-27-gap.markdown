@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Personal Research Journey during GAP Year"
-date:   2019-03-23 21:03:36 +0530
+date:   2020-09-27 21:03:36 +0530
 categories: Research Python Keras-Theano
 ---	
