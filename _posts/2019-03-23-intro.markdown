@@ -2,13 +2,16 @@
 layout: post
 title:  "Brief Introduction"
 date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+categories:
 ---
 Studying and researching Machine Learning, Computer Vision and interested in Data Science related career. Previous and current researches include traffic analysis, facial micro-expression analysis and image emotion analysis. 
 
 Pursuing fundamental learning algorithm and medical imaging.
 
-```javascript
+
+
+
+<!-- ```javascript
 // require 'jekyll-timeago'
 // include Jekyll:Timeago
 
@@ -24,10 +27,11 @@ rzp.capture(payment_id, cost)
 	.then(function (data) {
 		return 2;
 	})
-```
+``` -->
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+ -->
