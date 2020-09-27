@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Personal Research Journey during GAP Year"
+title:  "GAP Year Research"
 date:   2020-09-27 21:03:36 +0530
-categories: Research Python Keras-Theano
+categories: Research Python Keras-Theano PyTorch
 ---	
-test lorem ipsum
+An un-ordinary journey.
