@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Ice
-  tagline: Researcher (ML/DL/CV/DS)
+  tagline: Researcher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
@@ -48,9 +48,12 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-remote-theme
+  # - jekyll-seo-tag
+  # - jekyll-include-cache
 #  - jekyll-feed
 
