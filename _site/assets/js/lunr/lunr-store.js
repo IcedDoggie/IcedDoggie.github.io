@@ -2,42 +2,42 @@ var store = [{
         "title": "Tackling Upstream Task to Perform Downstream ME Classification",
         "excerpt":"test  ","categories": [],
         "tags": [],
-        "url": "/2023/01/02/SSLME.html",
+        "url": "/SSLME/",
         "teaser": null
       },{
         "title": "Into the Data Science Industry",
         "excerpt":"test  ","categories": [],
         "tags": [],
-        "url": "/2023/01/02/dataScience.html",
+        "url": "/dataScience/",
         "teaser": null
       },{
         "title": "Domain Adaptation",
         "excerpt":"test  ","categories": [],
         "tags": [],
-        "url": "/2023/01/02/domainAdaptation.html",
+        "url": "/domainAdaptation/",
         "teaser": null
       },{
         "title": "Hyperbolic CV with Domain Adaptation",
         "excerpt":"test  ","categories": [],
         "tags": [],
-        "url": "/2023/01/02/hyperbolicCV.html",
+        "url": "/hyperbolicCV/",
         "teaser": null
       },{
         "title": "Image Emotion Classification",
         "excerpt":"test  ","categories": [],
         "tags": [],
-        "url": "/2023/01/02/imageEmotion.html",
+        "url": "/imageEmotion/",
         "teaser": null
       },{
         "title": "Facial Micro-Expression",
         "excerpt":"test  ","categories": [],
         "tags": [],
-        "url": "/2023/01/02/microExpression.html",
+        "url": "/microExpression/",
         "teaser": null
       },{
         "title": "The process of Ideation and Creation of Face Analysis Pipeline",
         "excerpt":"test  ","categories": [],
         "tags": [],
-        "url": "/2023/01/02/pipelineCreation.html",
+        "url": "/pipelineCreation/",
         "teaser": null
       }]
