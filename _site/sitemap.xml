@@ -9,37 +9,37 @@
             <lastmod>2019-06-07T00:00:00+00:00</lastmod>
             <priority>1.00</priority>
         </url><url>
-                <loc>http://localhost:4000/industry/2023/01/02/pipelineCreation.html</loc>
+                <loc>http://localhost:4000/2023/01/02/pipelineCreation.html</loc>
                 <lastmod>2023-01-02T02:03:36+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/research/2023/01/02/microExpression.html</loc>
+                <loc>http://localhost:4000/2023/01/02/microExpression.html</loc>
                 <lastmod>2023-01-02T02:03:36+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/research/2023/01/02/imageEmotion.html</loc>
+                <loc>http://localhost:4000/2023/01/02/imageEmotion.html</loc>
                 <lastmod>2023-01-02T02:03:36+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/labnotes/2023/01/02/hyperbolicCV.html</loc>
+                <loc>http://localhost:4000/2023/01/02/hyperbolicCV.html</loc>
                 <lastmod>2023-01-02T02:03:36+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/research/2023/01/02/domainAdaptation.html</loc>
+                <loc>http://localhost:4000/2023/01/02/domainAdaptation.html</loc>
                 <lastmod>2023-01-02T02:03:36+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/industry/2023/01/02/dataScience.html</loc>
+                <loc>http://localhost:4000/2023/01/02/dataScience.html</loc>
                 <lastmod>2023-01-02T02:03:36+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/labnotes/2023/01/02/SSLME.html</loc>
+                <loc>http://localhost:4000/2023/01/02/SSLME.html</loc>
                 <lastmod>2023-01-02T02:03:36+08:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
