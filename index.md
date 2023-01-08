@@ -11,22 +11,22 @@ Some of my technical reports and lab notes are recorded here, feel free to flip 
 <!-- [Lab notes for Jan](./logs/another-page.html). -->
 
 # Lab Notes
-### [Hyperbolic Computer Vision](2023/01/02/hyperbolicCV.html)
+### [Hyperbolic Computer Vision](labnotes/2023/01/02/hyperbolicCV.html)
 LN 1
-### [Self-supervised Learning with Micro-Expression](2023/01/02/SSLME.html)
+### [Self-supervised Learning with Micro-Expression](labnotes/2023/01/02/SSLME.html)
 ln 2
 
 # Research Highlights
-### [Facial Micro-expression](2023/01/02/microExpression.html)
+### [Facial Micro-expression](research/2023/01/02/microExpression.html)
 Brief description about facial micro-expression.
-### [Image Emotion Classification](2023/01/02/imageEmotion.html)
+### [Image Emotion Classification](research/2023/01/02/imageEmotion.html)
 Brief description about facial image emotion.
-### [Domain Adaptation](2023/01/02/domainAdaptation.html)
+### [Domain Adaptation](research/2023/01/02/domainAdaptation.html)
 Brief description about facial domain adaptation.
 
 # Industry Sharing
-### [Pipeline Ideation & Creation](2023/01/02/pipelineCreation.html)
+### [Pipeline Ideation & Creation](industry/2023/01/02/pipelineCreation.html)
 The story on how the ideation and creation take place in one of the startup industry.
-### [Data Science Industry](2023/01/02/dataScience.html)
+### [Data Science Industry](industry/2023/01/02/dataScience.html)
 The story of....
 ### []()
