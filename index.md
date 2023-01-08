@@ -27,6 +27,6 @@ Brief description about facial domain adaptation.
 # Industry Sharing
 ### [Pipeline Ideation & Creation](2023-01-02-pipelineCreation.html)
 The story on how the ideation and creation take place in one of the startup industry.
-### [Data Science Industry](2023-01-02-dataScience.html)
+### [Data Science Industry](2023/01/02/dataScience.html)
 The story of....
 ### []()
