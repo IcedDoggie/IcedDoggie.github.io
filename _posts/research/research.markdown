@@ -7,8 +7,9 @@ permalink: "research/"
 
 [Main Page](/){: .btn} [Industry](/industry){: .btn} [Lab Notes](/labnotes){: .btn}
 
-Labnotes
+Research
 
-# Lab Notes
-### [Hyperbolic Computer Vision](/research/imageEmotion)
-### [Self-supervised Learning with Micro-Expression](/research/microExpression)
+# Research Journey
+###### [Research Work](/research/researchwork1)
+###### [Research Work](/research/researchwork2)
+

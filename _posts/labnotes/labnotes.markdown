@@ -7,9 +7,9 @@ permalink: "labnotes/"
 
 [Main Page](/){: .btn} [Industry](/industry){: .btn} [Research](/research){: .btn}
 
-Labnotes
+
 
 # Lab Notes
-### [Hyperbolic Computer Vision](/labnotes/hyperbolicCV)
-### [Self-supervised Learning with Micro-Expression](/labnotes/SSLME)
-### [Domain Adaptation](/labnotes/domainAdaptation)
+###### [Hyperbolic Computer Vision](/labnotes/hyperbolicCV)
+###### [Self-supervised Learning with Micro-Expression](/labnotes/SSLME)
+###### [Domain Adaptation](/labnotes/domainAdaptation)

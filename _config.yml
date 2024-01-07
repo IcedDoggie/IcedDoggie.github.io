@@ -13,8 +13,8 @@ include: ['_posts']
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Ice
-  tagline: Researcher
+  name: Huai-Qian Khor
+  tagline: Doctoral Researcher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 

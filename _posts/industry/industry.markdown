@@ -7,8 +7,8 @@ permalink: "industry/"
 
 [Main Page](/){: .btn} [Research](/research){: .btn} [Lab Notes](/labnotes){: .btn}
 
-Labnotes
 
-# Lab Notes
-### [Hyperbolic Computer Vision](/industry/dataScience)
-### [Self-supervised Learning with Micro-Expression](/industry/pipelineCreation)
+# Journey in Industry
+
+###### [Hyperbolic Computer Vision](/industry/dataScience)
+###### [Self-supervised Learning with Micro-Expression](/industry/pipelineCreation)
