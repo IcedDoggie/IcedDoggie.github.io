@@ -11,24 +11,6 @@ var store = [{
         "url": "/industry/pipelineCreation/",
         "teaser": null
       },{
-        "title": "Tackling Upstream Task to Perform Downstream ME Classification",
-        "excerpt":"test  ","categories": [],
-        "tags": [],
-        "url": "/labnotes/SSLME/",
-        "teaser": null
-      },{
-        "title": "Domain Adaptation",
-        "excerpt":"test  ","categories": [],
-        "tags": [],
-        "url": "/labnotes/domainAdaptation/",
-        "teaser": null
-      },{
-        "title": "Hyperbolic CV with Domain Adaptation",
-        "excerpt":"test  ","categories": [],
-        "tags": [],
-        "url": "/labnotes/hyperbolicCV/",
-        "teaser": null
-      },{
         "title": "Image Emotion Classification",
         "excerpt":"test  ","categories": [],
         "tags": [],
@@ -39,5 +21,11 @@ var store = [{
         "excerpt":"test  ","categories": [],
         "tags": [],
         "url": "/research/microExpression/",
+        "teaser": null
+      },{
+        "title": "The First Step in a 4 Years Journey",
+        "excerpt":"Self Reliance is the key to vigorous life - Robin Williams And the moment has come, a first step towards the world of research - filled with vast unknowns whilst beknowing that exciting challenges are yet to come. In retrospective to moments from Master’s Journey, a coffee chat was always...","categories": [],
+        "tags": [],
+        "url": "/labnotes/theStart/",
         "teaser": null
       }]

@@ -9,27 +9,17 @@
             <lastmod>2019-06-07T00:00:00+00:00</lastmod>
             <priority>1.00</priority>
         </url><url>
+                <loc>http://localhost:4000/labnotes/theStart/</loc>
+                <lastmod>2023-01-08T20:37:00+02:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
                 <loc>http://localhost:4000/research/microExpression/</loc>
                 <lastmod>2023-01-01T20:03:36+02:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
                 <loc>http://localhost:4000/research/imageEmotion/</loc>
-                <lastmod>2023-01-01T20:03:36+02:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/labnotes/hyperbolicCV/</loc>
-                <lastmod>2023-01-01T20:03:36+02:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/labnotes/domainAdaptation/</loc>
-                <lastmod>2023-01-01T20:03:36+02:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/labnotes/SSLME/</loc>
                 <lastmod>2023-01-01T20:03:36+02:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>

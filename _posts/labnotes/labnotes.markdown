@@ -10,6 +10,4 @@ permalink: "labnotes/"
 
 
 # Lab Notes
-###### [Hyperbolic Computer Vision](/labnotes/hyperbolicCV)
-###### [Self-supervised Learning with Micro-Expression](/labnotes/SSLME)
-###### [Domain Adaptation](/labnotes/domainAdaptation)
+###### [The Start](/labnotes/theStart)
