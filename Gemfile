@@ -17,5 +17,5 @@ gemspec
 
 # gem "rexml", "~> 3.2"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 # gem 'bootstrap', '~> 4.3.1'
